@@ -82,11 +82,6 @@ a {
 #section_3 {
   display: none;
 }
-#section_1 {
-  display: flex;
-}
-
-
 .section {
   display: flex;
 }
